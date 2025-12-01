@@ -12,3 +12,4 @@ before, sep, after = msg3.partition("is")
 print(before)
 print(sep)
 print(after)
+# The output will be:
